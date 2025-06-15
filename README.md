@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-  ⚽ I Like Playing Football
+ 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ ⚽ I Like Playing Football
+
+ 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFweWZiNGZmZzUwbzNyc3Yza293MDI1c3prMm0yenM5aHlrZXF6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif)
