@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Alvin Jamal Azkya 👋
 
 <!--
 **alvinjamal/alvinjamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![happy](./img/Coding%20Work%20From%20Home%20GIF%20by%20Alliance.gif)
